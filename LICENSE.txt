@@ -1,0 +1,107 @@
+--       _____       _                                _        _        
+--      / ____|     | |                              | |      | |       
+--     | (___   __ _| | ___   _ _ __ __ _ _ __   ___ | |_ __ _| |_ ___  
+--      \___ \ / _` | |/ / | | | '__/ _` | '_ \ / _ \| __/ _` | __/ _ \ 
+--      ____) | (_| |   <| |_| | | | (_| | |_) | (_) | || (_| | || (_) |
+--     |_____/ \__,_|_|\_\\__,_|_|  \__,_| .__/ \___/ \__\__,_|\__\___/ 
+--                                       | |                            
+--                                       |_|                            2026
+
+作品：VibrantPBR
+
+作者：Sakurapotato
+
+
+本授權條款（以下簡稱「本協議」）適用於 VibrantPBR。下載、安裝或使用本作品即表示您已閱讀、理解並同意受本協議之約束。若您不同意本協議的任何條款，請立即停止使用本作品。
+
+本協議可由所有者 Sakurapotato 隨時修改，恕不另行通知。使用者有責任定期查閱最新版本的協議，以確保遵守規範。
+
+
+版權與所有權：
+
+VibrantPBR 相關之所有著作權、智慧財產權及其他相關權利，均歸 Sakurapotato 所有。
+
+本資源包僅授予使用權，並不轉移任何所有權。
+
+使用者權利：
+
+作為使用者，您可以：
+
+1. 修改本作品之檔案，僅供個人使用。
+
+2. 將本作品與其他作品混合，僅供個人使用。
+
+3. 製作並分享展示 VibrantPBR 的影片，惟必須明確標示作品作者 Sakurapotato，並提供連結，引導觀眾前往作者之 Modrinth 頁面。
+
+未經授權，您不得：
+
+1. 轉載、分享或二次散佈本作品。
+
+2. 修改或混合後之檔案進行轉載、分享或二次散佈。
+
+3. 複製本作品檔案並運用於其他作品。
+
+4. 直接或間接利用本作品進行商業營利。
+
+免責聲明：
+
+在任何情況下，因使用本作品所導致之資料損毀、設備毀損或其他損失，作者不承擔任何責任。
+
+侵權與檢舉：
+
+若您於其他網站或社群平台發現 VibrantPBR 之盜版或未經授權之散佈內容，請透過ShaderLabs Discord 聯繫所有者 Sakurapotato。
+
+
+------------------------------------------------------------------------------
+
+下載並使用 VbrantPBR 即表示您接受並同意遵守本協議的所有條款。
+
+------------------------------------------------------------------------------
+
+End User License Agreement (EULA) for VibrantPBR
+
+This End User License Agreement (hereinafter referred to as “Agreement”) applies to VibrantPBR. By downloading, installing, or using this resource pack, you acknowledge that you have read, understood, and agreed to be bound by this Agreement. If you do not agree with any of the terms, you must immediately stop using this resource pack.
+
+This Agreement may be modified at any time by the owner, Sakurapotato, without prior notice. Users are responsible for reviewing the latest version of this Agreement to ensure compliance.
+
+Copyright and Ownership :
+
+All copyrights, intellectual property rights, and related rights to VibrantPBR belong to Sakurapotato.
+
+This resource pack is licensed to you for use only, and no ownership rights are transferred.
+
+User Rights :
+
+As a user, you are permitted to:
+
+Modify the files of this resource pack for personal use only.
+
+Combine this resource pack with other resource pack for personal use only.
+
+Create and share videos showcasing VbrantPBR, provided that you clearly credit Sakurapotato as the author and include a link directing viewers to the author’s Modrinth page.
+
+Prohibited Actions :
+
+Without explicit authorization, you may not:
+
+Re-upload, redistribute, or re-share this resource pack.
+
+Re-upload, redistribute, or re-share any modified or combined versions of this resource pack.
+
+Copy files from this resource pack for use in other projects.
+
+Directly or indirectly use this resource pack for commercial or profit-making purposes.
+
+Disclaimer :
+
+Under no circumstances shall the author be held liable for any data loss, device damage, or other damages resulting from the use of this resource pack.
+
+Infringement and Reporting :
+
+If you discover unauthorized distributions, pirated versions, or other infringements of VibrantPBR on websites or social platforms, please contact the owner Sakurapotato on ShaderLabs Discord.
+--------------------------------------------------------------------------------------------------------------------
+
+By downloading and using VibrantPBR, you acknowledge and agree to all the terms of this Agreement.
+
+--------------------------------------------------------------------------------------------------------------------
+
